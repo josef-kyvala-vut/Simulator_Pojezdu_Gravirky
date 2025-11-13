@@ -9,4 +9,4 @@ vstupy, které vedou mimo pracovní oblast).
 
 ● reprezentace polohy a výpočty vzdálenosti
 ● pohyb relativní i absolutní
-● ukládání a načítání definovaných tras
+● ukládání a načítání definovaných ras
